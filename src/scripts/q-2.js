@@ -12,7 +12,7 @@ qbtns2.forEach(btn=> {
             }
         }
         else if (btn.innerText === "YES") {
-            btn.setAttribute('href', "/third.page.html")
+            btn.setAttribute('href', "third.page.html")
         }
     })
 })
